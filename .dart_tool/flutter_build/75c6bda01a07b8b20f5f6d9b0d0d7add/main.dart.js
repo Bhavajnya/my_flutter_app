@@ -41660,7 +41660,7 @@ case 2:return A.N(o.at(-1),r)}})
 return A.P($async$pG,r)}}
 A.a27.prototype={}
 A.pU.prototype={
-gm1(){return"images/Bhavajnya.jpg"},
+gm1(){return"assets/images/Bhavajnya.jpg"},
 a2Q(a){var s,r={},q=a.a
 if(q==null)q=$.LL()
 r.a=r.b=null
